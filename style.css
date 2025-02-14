@@ -1,0 +1,38 @@
+*{
+    
+    background-color: #C14600;
+    color: #E5D0AC;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
+
+img{
+    width: 550px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px solid;
+    border-width: 5px;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #FEF9E1;
+    font-size: 30px;
+    font-weight: 900;
+    
+}
+
+h2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+
+    color: #FEF9E1;
+    font-weight: 700;
+
+
+}
